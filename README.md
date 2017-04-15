@@ -5,5 +5,5 @@ This app is created for doing challenges from book: Android Programming Big Nerd
 
 New Feature:
 + Add button Back which helps user can backward previous question.
-+ Change redirect buttons (next, back) to icon button (just icon, no text)
++ Change redirect buttons (next, back) to icon buttons (just icon, no text)
 + When user clicks on question, next question will be displayed and replaces the current one.
